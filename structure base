@@ -1,0 +1,18 @@
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86'}, 
+ 'href': 'https://api.spotify.com/v1/artists/7x3eTVPlBiPjXHn3qotY86', 
+ 'id': '7x3eTVPlBiPjXHn3qotY86', 
+ 'name': 'KeBlack', 
+ 'type': 'artist', 
+ 'uri': 'spotify:artist:7x3eTVPlBiPjXHn3qotY86'}, 
+ 
+ {'external_urls': {'spotify': 'https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw'}, 
+ 'href': 'https://api.spotify.com/v1/artists/4uJNQGa3L2frXDxwgouTIw', 
+ 'id': '4uJNQGa3L2frXDxwgouTIw', 
+ 'name': 'Franglish', 
+ 'type': 'artist', 
+ 'uri': 'spotify:artist:4uJNQGa3L2frXDxwgouTIw'}]
+ 
+ [{'external_urls':{'spotify': " " }, 'href': " ", 'id': " ", 'name': " ", 'type': " ", 'uri': " "}, {'external_urls':{'spotify': " " }, 'href': " ", 'id': " ", 'name': " ", 'type': " ", 'uri': " "}, ........]
+ 
+ 
+
